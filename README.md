@@ -12,7 +12,7 @@ Raw text of:
 2. Jane Eyre by Charlotte Brontë
 
 ## Methodologies
-- Preprocessing: TF-IDF
+- Preprocessing: Term Frequency-Inverse Document Frequency (TF-IDF)
 - NLP techniques: Tokenisation, POS tagging and Dependency Parsing
 - Machine Learning Classifiers: Random Forest, Gaussian Naive Bayes, Multinomial NB, Bernoulli NB and Complement NB
 
