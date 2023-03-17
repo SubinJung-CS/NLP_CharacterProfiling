@@ -13,7 +13,7 @@ Raw text of:
 
 ## Methodologies
 - Preprocessing: TF-IDF
-- NLP techniques: tokenisation, POS tagging and dependency parsing
+- NLP techniques: Tokenisation, POS tagging and Dependency Parsing
 - Machine Learning Classifiers: Random Forest, Gaussian Naive Bayes, Multinomial NB, Bernoulli NB and Complement NB
 
 
